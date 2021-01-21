@@ -1,0 +1,9 @@
+
+
+day 2:
+
+gebruik de .Split methode om elke regel van elkaar te scheiden
+=> string.Split('\n', string.Length)
+
+if string index i == " "
+	add " " to string index i + 1 
